@@ -1,0 +1,2 @@
+default: --format progress features
+pending: --format pretty features-pending
